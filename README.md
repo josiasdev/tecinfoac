@@ -1,7 +1,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/josiasdev/tecinfoac)](https://repl.it/github/josiasdev/tecinfoac)
 
 
-Repositório do meu curso Técnico em Informática (integrado) da EEEP Doutor Salomão Alves de Moura, Aracoiaba/CE, concluído em 2021.
+Repositório do meu curso Técnico em Informática (2019-2021) - EEEP Doutor Salomão Alves de Moura, Aracoiaba/CE
 
 
 ![100%](https://progress-bar.xyz/100/?title=Progresso+no+curso:)
