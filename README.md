@@ -1,7 +1,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/josiasdev/tecinfoac)](https://repl.it/github/josiasdev/tecinfoac)
 
 
-Repositório do meu curso Técnico em Informática (integrado) — EEEP Doutor Salomão Alves de Moura, Aracoiaba/CE, concluído em 2021.
+Repositório do meu curso Técnico em Informática (integrado) da EEEP Doutor Salomão Alves de Moura, Aracoiaba/CE, concluído em 2021.
 
 
 ![100%](https://progress-bar.xyz/100/?title=Progresso+no+curso:)
@@ -38,8 +38,7 @@ Carga horária:|Exigido
 >##### 1 - As disciplinas estão separadas de acordo com cada ano letivo.
 >##### 2 - O uso dos materiais aqui contidos são de inteira e responsabilidade sua, alguns códigos podem conter erros ou bugs.
 >##### 3 - Sinta-se livre para fazer qualquer alteração ou questionamento.
->##### 4 - O histórico escolar e o diploma **não** estão incluídos no repositório por conterem dados pessoais (CPF, RG e data de nascimento).
->##### 5 - Todas as disciplinas foram aprovadas de primeira: nota mínima 7.0 e máxima 10.0.
+>##### 4 - Todas as disciplinas foram aprovadas de primeira: nota mínima 7.0 e máxima 10.0.
 #
 
 
@@ -103,7 +102,7 @@ Status:| Atividade: | C.H.: | Nota:
 :memo: | Proj. Interdisciplinares II | 20h | --
 
 
-Total do ano: **1.800h** — Resultado final: **APROVADO** — [Ver README do 1º ano](./1-ano-2019/)
+Total do ano: **1.800h**<br>Resultado final: **APROVADO**<br>[Ver README do 1º ano](./1-ano-2019/)
 
 
 </div>
@@ -165,7 +164,7 @@ Status:| Atividade: | C.H.: | Nota:
 :memo: | Inglês Técnico | 60h | --
 
 
-Total do ano: **1.800h** — Resultado final: **APROVADO** — [Ver README do 2º ano](./2-ano-2020/)
+Total do ano: **1.800h**<br>Resultado final: **APROVADO**<br>[Ver README do 2º ano](./2-ano-2020/)
 
 
 </div>
@@ -223,7 +222,7 @@ Status:| Atividade: | C.H.: | Nota:
 :memo: | Prep. e Avaliação da Prática Estágio | 100h | --
 
 
-Total do ano: **1.800h** — Resultado final: **APROVADO** — [Ver README do 3º ano](./3-ano-2021/)
+Total do ano: **1.800h**<br>Resultado final: **APROVADO**<br>[Ver README do 3º ano](./3-ano-2021/)
 
 
 </div>

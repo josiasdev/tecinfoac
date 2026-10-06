@@ -4,7 +4,7 @@
 # 2º ano - 2020
 
 
-EEEP Doutor Salomão Alves de Moura — Aracoiaba/CE
+EEEP Doutor Salomão Alves de Moura, Aracoiaba/CE
 
 
 | | |
@@ -14,7 +14,7 @@ EEEP Doutor Salomão Alves de Moura — Aracoiaba/CE
 | **Resultado final** | APROVADO |
 
 
-Legenda: :heavy_check_mark: Disciplina concluída (aprovado) — :memo: Atividade complementar (carga horária sem nota).
+Legenda: :heavy_check_mark: Disciplina concluída (aprovado)<br>:memo: Atividade complementar (carga horária sem nota).
 
 
 ## Base Nacional Comum
